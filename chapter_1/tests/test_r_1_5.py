@@ -1,6 +1,6 @@
 import unittest
 
-from chapter_1.r_1_4 import sum_of_square
+from chapter_1.r_1_5 import sum_of_square
 
 
 class MyTestCase(unittest.TestCase):
